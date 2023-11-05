@@ -1,0 +1,57 @@
+body {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h1 {
+    margin-top: 1.5em;
+    font-family: sans-serif;
+    font-size: 32px;
+    margin-bottom: 1em;
+}
+h2 {
+    margin-top: 1.5em;
+    font-family: sans-serif;
+    margin-bottom: 1em;
+}
+h3 {
+    margin-top: 1.5em;
+    font-family: sans-serif;
+    margin-bottom: 1em;
+}
+table, td, th {
+    border-collapse: collapse;
+    border: 1px solid black;
+    height: 30px;
+}
+th {
+    width: 1%;
+}
+.tsar {
+    float: right;
+    border: 5px solid sienna;
+    border-style: ridge;
+}
+.century {
+    float: right;
+    border: 5px solid sienna;
+    border-style: ridge;
+}
+.geo {
+    float: right;
+    border: 5px solid sienna;
+    border-style: ridge;
+}
+.hydro {
+    float: right;
+    border: 5px solid sienna;
+    border-style: ridge;
+}
+.flora {
+    float: right;
+    border: 5px solid sienna;
+    border-style: ridge;
+}
+.angled-gradient {
+    background: linear-gradient(70deg, lightsalmon, pink);
+  }
