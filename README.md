@@ -1,1 +1,1 @@
-Information on Penza
+Information about Penza
